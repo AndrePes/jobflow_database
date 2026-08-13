@@ -1,46 +1,256 @@
 {
-  "job_titles": [
-    "AI Engineer",
-    "Machine Learning Engineer",
-    "AI Solutions Architect"
+  "profile_name": "Andre_Peschyras_2026",
+
+  "job_titles": {
+    "primary": [
+      "Senior Software Engineer",
+      "Senior IoT Engineer",
+      "IIoT Engineer",
+      "Industrial IoT Engineer",
+      "IoT Solutions Engineer",
+      "Industrial Software Engineer"
+    ],
+
+    "secondary": [
+      "Solution Architect IoT",
+      "IoT Solutions Architect",
+      "Industrial IoT Architect",
+      "Technical Consultant Manufacturing",
+      "Digitalization Engineer",
+      "Industry 4.0 Engineer",
+      "Industry 4.0 Consultant",
+      "OT/IT Integration Engineer",
+      "Automation Software Engineer",
+      "Embedded Software Engineer",
+      "Backend Developer .NET",
+      "Python Developer",
+      "AI Software Engineer",
+      "Generative AI Engineer",
+      "AI Solutions Engineer"
+    ],
+
+    "exclude": [
+      "Junior Developer",
+      "Junior Software Engineer",
+      "Working Student",
+      "Intern",
+      "Trainee",
+      "First Level Support",
+      "Helpdesk",
+      "Pure Frontend Developer"
+    ]
+  },
+
+  "locations": {
+    "countries": [
+      "Germany"
+    ],
+
+    "preferred_regions": [
+      "Lower Saxony",
+      "Braunschweig",
+      "Wolfsburg",
+      "Hannover",
+      "Gifhorn"
+    ],
+
+    "remote": true,
+    "hybrid": true,
+    "onsite": true,
+
+    "remote_scope": [
+      "Germany"
+    ]
+  },
+
+  "seniority": [
+    "Medior",
+    "Senior",
+    "Experienced",
+    "Professional",
+    "Lead"
   ],
-
-  "locations": [
-    "Berlin",
-    "Hamburg",
-    "Remote Germany"
-  ],
-
-  "remote": true,
-
-  "skills_required": [
-    "Python",
-    "Azure",
-    "LLM",
-    "RAG"
-  ],
-
-  "skills_preferred": [
-    "Microsoft Foundry",
-    "LangChain",
-    "Docker",
-    "Kubernetes",
-    "Supabase"
-  ],
-
-  "min_salary": 75000,
 
   "employment_types": [
     "full-time"
   ],
 
-  "seniority": [
-    "Senior",
-    "Lead"
+  "industries": {
+    "preferred": [
+      "Manufacturing",
+      "Industrial Automation",
+      "Industrial IoT",
+      "IoT",
+      "Software",
+      "Digital Manufacturing",
+      "Industry 4.0",
+      "Smart Factory",
+      "Engineering",
+      "Logistics",
+      "Machine Building",
+      "Plant Engineering",
+      "Automotive",
+      "Industrial Digitalization",
+      "Circular Economy",
+      "Artificial Intelligence"
+    ]
+  },
+
+  "skills_required_or_core": [
+    "Software Engineering",
+    "IoT",
+    "IIoT",
+    "Python",
+    "C#",
+    ".NET",
+    "C",
+    "C++",
+    "SQL"
   ],
 
-  "languages": [
-    "German",
-    "English"
-  ]
+  "skills_strong": [
+    "Microsoft Azure",
+    "Microsoft AI Foundry",
+    "Azure IoT Hub",
+    "Azure Data Factory",
+    "Azure DevOps",
+    "Azure Static Web Apps",
+    "Microsoft Power Platform",
+    "Microsoft Visual Studio Code",
+    "Supabase",
+    "PostgreSQL",
+    "n8n",
+    "MQTT",
+    "Modbus",
+    "CAN Bus",
+    "LoRa",
+    "OPC-UA",
+    "Embedded Systems",
+    "Raspberry Pi",
+    "Arduino",
+    "ESP32",
+    "SAP Digital Manufacturing",
+    "SAP Business Technology Platform",
+    "SAP S/4HANA",
+    "Industrial Automation",
+    "Manufacturing",
+    "Logistics"
+  ],
+
+  "skills_additional": [
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Siemens SIMATIC",
+    "TIA Portal",
+    "SIMATIC S7-1200",
+    "SIMATIC LOGO!",
+    "GitHub",
+    "Jira",
+    "Confluence",
+    "Project Management"
+  ],
+
+  "skills_emerging": [
+    "Generative AI",
+    "Agentic AI",
+    "AI Agents",
+    "GitHub Copilot",
+    "OpenAI Codex"
+  ],
+
+  "technology_keywords": [
+    "IoT",
+    "IIoT",
+    "Industry 4.0",
+    "Industrie 4.0",
+    "Smart Factory",
+    "Digital Manufacturing",
+    "Manufacturing Execution System",
+    "MES",
+    "OT IT Integration",
+    "Edge Computing",
+    "Embedded Systems",
+    "Industrial Automation",
+    "Industrial Data",
+    "Machine Connectivity",
+    "Azure IoT",
+    "SAP Digital Manufacturing",
+    "SAP DM",
+    "SAP DMC",
+    "SAP BTP",
+    "OPC UA",
+    "MQTT",
+    "Modbus",
+    "Generative AI",
+    "Agentic AI"
+  ],
+
+  "experience": {
+    "minimum_years_professional_it": 8,
+    "minimum_years_iot": 4,
+    "manufacturing_experience": true,
+    "industrial_environment_experience": true,
+    "consulting_experience": true,
+    "embedded_experience": true,
+    "project_management_experience": true
+  },
+
+  "matching": {
+    "minimum_match_score": 65,
+
+    "weights": {
+      "job_title": 20,
+      "core_skills": 25,
+      "iot_industry4": 15,
+      "manufacturing_domain": 15,
+      "azure_cloud": 10,
+      "sap_digital_manufacturing": 10,
+      "generative_ai": 5
+    },
+
+    "bonus_keywords": [
+      "IoT",
+      "IIoT",
+      "Digital Manufacturing",
+      "Industry 4.0",
+      "Smart Factory",
+      "SAP Digital Manufacturing",
+      "SAP BTP",
+      "Azure IoT",
+      "OPC-UA",
+      "MQTT",
+      "Manufacturing",
+      "Industrial Software",
+      "Generative AI",
+      "Agentic AI"
+    ]
+  },
+
+  "search_strategy": {
+    "prefer_original_company_job_page": true,
+    "maximum_job_age_days": 30,
+
+    "search_languages": [
+      "German",
+      "English"
+    ],
+
+    "sources": [
+      "company career pages",
+      "LinkedIn",
+      "StepStone",
+      "Indeed",
+      "Greenhouse",
+      "Lever",
+      "Ashby"
+    ]
+  },
+
+  "salary": {
+    "minimum": 700000,
+    "preferred": 750000,
+    "currency": "EUR",
+    "period": "year"
+  }
 }
