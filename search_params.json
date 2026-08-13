@@ -1,0 +1,46 @@
+{
+  "job_titles": [
+    "AI Engineer",
+    "Machine Learning Engineer",
+    "AI Solutions Architect"
+  ],
+
+  "locations": [
+    "Berlin",
+    "Hamburg",
+    "Remote Germany"
+  ],
+
+  "remote": true,
+
+  "skills_required": [
+    "Python",
+    "Azure",
+    "LLM",
+    "RAG"
+  ],
+
+  "skills_preferred": [
+    "Microsoft Foundry",
+    "LangChain",
+    "Docker",
+    "Kubernetes",
+    "Supabase"
+  ],
+
+  "min_salary": 75000,
+
+  "employment_types": [
+    "full-time"
+  ],
+
+  "seniority": [
+    "Senior",
+    "Lead"
+  ],
+
+  "languages": [
+    "German",
+    "English"
+  ]
+}
